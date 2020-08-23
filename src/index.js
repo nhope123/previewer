@@ -127,7 +127,7 @@ class Previewer extends React.Component{
       <div className='main-container' >
 
         <div className='title-container' > Markdown Previewer
-          <a href='#' title='Github Code' >
+          <a href='https://github.com/nhope123/previewer' title='Github Code' target='_blank' rel="noopener noreferrer" >
             <i class="fa fa-github-alt"></i>
           </a>
         </div>
