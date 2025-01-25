@@ -11,7 +11,7 @@ A simple and interactive Markdown previewer built with React. This project allow
 
 ## Preview  
 
-![Markdown Previewer Screenshot](src/assets/screenshot.png)  
+![Markdown Previewer Screenshot](src/screenshot.png)  
 *A screenshot of the Markdown previewer in action.*
 
 ## Installation  
