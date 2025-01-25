@@ -58,5 +58,10 @@ The rendered Markdown will be displayed in real-time in the preview area on the 
 console.log("Hello, world!");
 ```
 
+## License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE.md) file for details.
 
+## Acknowledgements
+Thanks to the open-source community for inspiration and tools.
+Special thanks to Marked.js, Dompurify, serialize-javascript for Markdown rendering.
 
